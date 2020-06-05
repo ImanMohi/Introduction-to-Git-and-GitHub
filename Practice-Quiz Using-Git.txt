@@ -1,10 +1,11 @@
 Practice Quiz: Using Git
 
---------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Question 1
 Before changes in new files can be added to the Git directory, what command will
 tell Git to track our file in the list of changes to be committed?
+
 --> git status
 -->[CORRECT] git add (git add will add a file to the staging area and mark it for tracking.)
 --> git commit
@@ -12,14 +13,15 @@ tell Git to track our file in the list of changes to be committed?
 
 2.Question 2
 Which command would we use to review the commit history for our project?
+
 --> git clone
 --> git status
 --> git config -l
---> [CORRECT] git log (git log will give us information about the author of each commit,
-its timestamp, and each commit message.)
+--> [CORRECT] git log (git log will give us information about the author of each commit,its timestamp, and each commit message.)
 
 3.Question 3
 What command would we use to make Git track our file?
+
 --> git clone
 --> git status
 -->[CORRECT] git add (git add is used to start tracking a file)
@@ -28,17 +30,17 @@ What command would we use to make Git track our file?
 
 4.Question 4
 Which command would we use to look at our config?
+
 --> git clone
 --> git status
--->[CORRECT] git config -l (git config -l is used to check the current user
-configuration.)
+-->[CORRECT] git config -l (git config -l is used to check the current user configuration.)
 --> git log
 
 
 5.Question 5
 Which command would we use to view pending changes?
+
 --> git clone
---> git status (git status is used to retrieve information about changes
-waiting to be committed.)
+--> git status (git status is used to retrieve information about changes waiting to be committed.)
 --> git config -l
 --> git log

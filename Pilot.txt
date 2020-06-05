@@ -1,0 +1,6 @@
+Hey! This is our Pilot text for this particular repo
+We are going to look at different quizzes and assignments catered by the course 
+"introduction to Git and GitHub" by Google
+It is an amazing course which establishes a solid foundation of the concepts of collaborating and working with code!
+
+HAPPY CODING AND COLLABORATING leute !! :D
